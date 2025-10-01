@@ -3,7 +3,7 @@
 > A polished Power BI report that visualizes coffee shop sales (hourly, daily, product mix, payments) and surfaces actionable insights for operations, marketing, and finance.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
- <img src="dashboard.png" alt="Image 1" width="200">
+ <img src="dashboard.png" alt="Image 1" width="1200">
 </div>
 
 ---
